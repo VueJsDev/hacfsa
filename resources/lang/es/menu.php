@@ -1,0 +1,28 @@
+<?php
+return [
+    'idlanguage'     => 'es',
+    'home'           => 'Inicio',
+    'homemin'        => 'homees',
+    'news'           => 'Noticias',
+    'services'       => 'Servicios',
+    'servicesmin'    => 'services',
+    'telehealth'     => 'Telesalud',
+    'telehealthmin'  => 'ehealth',
+    'institution'    => 'Institución',
+    'institutionmin' => 'institution',
+    'servicemin'     => 'services',
+    'information'    => 'Información Paciente',
+    'teaching'       => 'Docencia e Investigación',
+    'teachingmin'    => 'teaching',
+    'contact'        => 'Contacto',
+    'parkinson'      => 'Parkinson',
+    'parkinsonmayus' => 'PARKINSON',
+    'parkinsonmin'   => 'parkinson_es',
+    'contactmin'     => 'contact',
+    'language'       => 'Idioma',
+    'hospital'       => 'HOSPITAL DE ALTA COMPLEJIDAD',
+    'hospitalmin'    => 'Hospital de Alta Complejidad',
+    'userlanguage'   => 'news_es',
+    'authoritiesmin' => 'authorities',
+
+];

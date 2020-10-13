@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/public/assets/frontend/images/banners
+.env
+fabfile.py
+fabfile.pyc
+*.pyc
+.vscode
+.venv

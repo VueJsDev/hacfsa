@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Tue, 10 May 2016 16:53:45 GMT
+Server: Apache
+X-Powered-By: PHP/5.5.30
+Cache-Control: no-cache
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjhEWEpQclB4MWhxXC9mQWc0dG5VMWFnPT0iLCJ2YWx1ZSI6IkhKTFpXYlFzQWp2R2dCQjN0cjJxT0wrMDJmR3RoT0V3S2RidlFCRitqU3k2VWk0NXg0VmpLbmpuekJ4b3FyUXdWNjJlVGJtXC9CM3RXZFRMdWJQZHQ5UT09IiwibWFjIjoiMjhjYzQ4YzNhYTQyM2RjOGRiZWRlMTlmNjk5NWFkNDNkNjM2ODBiYjcyN2UzY2YxZjhjNTk5Mjk2NjAyYjg4ZCJ9; expires=Tue, 10-May-2016 18:53:45 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6InRPd1lRaFdhbzV3eUtGZDZPTm1LRHc9PSIsInZhbHVlIjoibUhBb1ZFVXJ1ckdRd0RhOWdlMFFYRTRwN0NCcTlPemU3ZW1Ma2ZqUWhpMkxXZmttY3BEUGxhRDY3cllSTmgxcG40OXQzU3Y3aTFFeEp6cGlxeXo2Znc9PSIsIm1hYyI6IjAwODJhMGE5Mjg0Y2QwZTUyNzViY2YwY2Q1OTUyZjE2YTg4OTZkMzMwN2MwYjI3YmI0YjI3MTg2MTJkNzQxMTQifQ%3D%3D; expires=Tue, 10-May-2016 18:53:45 GMT; Max-Age=7200; path=/; httponly
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
